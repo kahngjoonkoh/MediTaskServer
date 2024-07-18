@@ -1,0 +1,8 @@
+config/access.yaml
+venv
+
+## junk files
+.pytest_cache
+.idea
+__pycache__
+*/__pycache__
